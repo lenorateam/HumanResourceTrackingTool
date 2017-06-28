@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tool", "Tool\Tool.csproj", "{073B24EF-5927-4C30-A246-3E232C3A5FAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tool.Tests", "Tool.Tests\Tool.Tests.csproj", "{69A984A9-9359-49F0-A402-E092977EF340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{073B24EF-5927-4C30-A246-3E232C3A5FAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{073B24EF-5927-4C30-A246-3E232C3A5FAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{073B24EF-5927-4C30-A246-3E232C3A5FAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{073B24EF-5927-4C30-A246-3E232C3A5FAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A984A9-9359-49F0-A402-E092977EF340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A984A9-9359-49F0-A402-E092977EF340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A984A9-9359-49F0-A402-E092977EF340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A984A9-9359-49F0-A402-E092977EF340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
