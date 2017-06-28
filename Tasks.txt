@@ -1,0 +1,77 @@
+Introduce yourself
+
+
+python array{list} questions 
+
+oops concepts
+
+
+JSON and REST experience
+
+Web Development – Applications experience
+
+Python - experience using the coding language
+
+	Web services
+
+
+Understanding for validation	1) Client side validation 2)Server Side validation
+
+
+Code coverage
+Concentrate on basic sql concepts 
+Agile Process
+Dot net
+
+
+ 
+bubblesort
+binary search
+
+
+lambda function 
+del,del item,pop dic functions
+concerns 
+in tuples
+set default
+dic unordered
+covert to set
+list slicing
+reverse list
+range()
+file operations
+readline
+readlines
+close file
+withopen init
+
+bulit functions
+os module
+cpu proccess
+automation
+regular expressions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Take java Script course parllely jqurey and angular js
